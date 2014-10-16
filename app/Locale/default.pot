@@ -1,0 +1,1323 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-10-10 09:15-0500\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AdminController.php:36
+#: Controller/CompanyAdminController.php:31
+#: Controller/CompanyController.php:26
+msgid "The Company has been created"
+msgstr ""
+
+#: Controller/AdminController.php:39;40
+#: Controller/CompanyAdminController.php:34
+#: Controller/CompanyController.php:29
+msgid "The Company could not be created. Please, try again."
+msgstr ""
+
+#: Controller/AdminController.php:91
+#: Controller/CompanyAdminController.php:185
+#: Controller/CompanyController.php:112
+#: Controller/ProjectAdminController.php:44
+#: Controller/ProjectController.php:26
+msgid "The Project has been created"
+msgstr ""
+
+#: Controller/AdminController.php:93
+#: Controller/CompanyAdminController.php:187
+#: Controller/CompanyController.php:114
+#: Controller/ProjectAdminController.php:46
+#: Controller/ProjectController.php:28
+msgid "The Project could not be created. Please, try again."
+msgstr ""
+
+#: Controller/CompanyAdminController.php:67
+#: Controller/CompanyController.php:55;87
+msgid "Company successful updated"
+msgstr ""
+
+#: Controller/CompanyAdminController.php:69
+#: Controller/CompanyController.php:57;89
+msgid "Error, please contact Kobe"
+msgstr ""
+
+#: Controller/DataDictAdminController.php:41
+msgid "Data Dictionary saved"
+msgstr ""
+
+#: Controller/DataDictAdminController.php:44
+msgid "Save error"
+msgstr ""
+
+#: Controller/DepartmentAdminController.php:30
+msgid "The Department has been created"
+msgstr ""
+
+#: Controller/DepartmentAdminController.php:33
+msgid "The Department could not be created, please contact developer"
+msgstr ""
+
+#: Controller/ProjectUserAdminController.php:17
+#: View/ProjectUserAdmin/add.ctp:42
+msgid "Add Users to Project"
+msgstr ""
+
+#: Controller/ProjectUserAdminController.php:92
+#: Controller/UserAdminController.php:158
+msgid "All users are assigned, no error"
+msgstr ""
+
+#: Controller/ProjectUserAdminController.php:101
+#: Controller/UserAdminController.php:167
+msgid "Able to assign:"
+msgstr ""
+
+#: Controller/ProjectUserAdminController.php:106
+#: Controller/UserAdminController.php:172
+msgid "Failed to assign:"
+msgstr ""
+
+#: Controller/UserAdminController.php:68
+msgid "User has been created"
+msgstr ""
+
+#: Controller/UserAdminController.php:70
+msgid "Can not create user"
+msgstr ""
+
+#: Controller/UserAdminController.php:304
+msgid "User is now active"
+msgstr ""
+
+#: Controller/UserAdminController.php:309;355
+#: View/Errors/error400.ctp:22
+#: View/Errors/error500.ctp:22
+msgid "Error"
+msgstr ""
+
+#: Controller/UserAdminController.php:350
+msgid "User is now deactive"
+msgstr ""
+
+#: Controller/UsersController.php:84
+msgid "Invalid user name or password"
+msgstr ""
+
+#: Controller/UsersController.php:102;126
+msgid "The user has been created"
+msgstr ""
+
+#: Controller/UsersController.php:105
+msgid "The user could not be created. Please try again."
+msgstr ""
+
+#: Controller/UsersController.php:129
+msgid "The user could not be created. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:158;246
+msgid "The passwords you entered do not match"
+msgstr ""
+
+#: Controller/UsersController.php:194
+msgid "Email you entered is not registered, please contact your company admin"
+msgstr ""
+
+#: Controller/UsersController.php:199
+msgid "Please confirm that you want to reset password"
+msgstr ""
+
+#: View/Admin/add_user.ctp:2
+#: View/Admin/assign_users.ctp:2
+msgid "Create New Organization"
+msgstr ""
+
+#: View/Admin/add_user.ctp:8
+#: View/Admin/assign_users.ctp:8
+#: View/Company/add.ctp:8
+#: View/Company/add_project.ctp:8
+#: View/Company/edit.ctp:8
+#: View/Company/view_company.ctp:8
+#: View/CompanyAdmin/add.ctp:8
+#: View/CompanyAdmin/add_project.ctp:8
+#: View/CompanyAdmin/edit.ctp:8
+#: View/CompanyAdmin/index.ctp:14
+#: View/CompanyAdmin/view_company.ctp:10
+#: View/DepartmentAdmin/add.ctp:10
+#: View/Project/add.ctp:8
+#: View/Project/show_project.ctp:12
+#: View/ProjectAdmin/add.ctp:10
+#: View/ProjectAdmin/project_list.ctp:13
+#: View/ProjectAdmin/view_project.ctp:12
+#: View/UserAdmin/add.ctp:8
+#: View/UserAdmin/assign_users.ctp:8
+#: View/Users/signup.ctp:16
+msgid "Error!"
+msgstr ""
+
+#: View/Admin/add_user.ctp:18
+#: View/Company/add.ctp:18
+#: View/Company/edit.ctp:21
+#: View/Company/view_company.ctp:21
+#: View/CompanyAdmin/add.ctp:18
+#: View/CompanyAdmin/edit.ctp:33
+msgid "Company Name"
+msgstr ""
+
+#: View/Admin/add_user.ctp:19
+#: View/Company/add.ctp:19
+#: View/Company/edit.ctp:24
+#: View/Company/view_company.ctp:29
+#: View/CompanyAdmin/add.ctp:23
+#: View/CompanyAdmin/edit.ctp:36
+#: View/Users/signup.ctp:37
+msgid "Select country"
+msgstr ""
+
+#: View/Admin/assign_users.ctp:18
+#: View/UserAdmin/assign_users.ctp:41
+msgid "Select company"
+msgstr ""
+
+#: View/Company/add.ctp:2
+msgid "Create New Company"
+msgstr ""
+
+#: View/Company/add.ctp:22
+msgid "Add New"
+msgstr ""
+
+#: View/Company/add_project.ctp:2
+#: View/CompanyAdmin/add_project.ctp:2
+#: View/Project/add.ctp:2
+#: View/ProjectAdmin/add.ctp:4
+msgid "Create New Project"
+msgstr ""
+
+#: View/Company/add_project.ctp:18
+#: View/CompanyAdmin/add_project.ctp:18
+#: View/CompanyAdmin/edit.ctp:20
+#: View/DataDictAdmin/add.ctp:9
+#: View/DepartmentAdmin/add.ctp:20
+#: View/Project/add.ctp:18
+#: View/ProjectAdmin/add.ctp:21
+#: View/UserAdmin/add.ctp:18
+#: View/UserAdmin/assign_users.ctp:41
+msgid "Select Company"
+msgstr ""
+
+#: View/Company/add_project.ctp:19
+#: View/CompanyAdmin/add_project.ctp:19
+#: View/CompanyAdmin/view_company.ctp:50;61
+#: View/Project/add.ctp:19
+#: View/Project/show_project.ctp:25;35
+#: View/ProjectAdmin/add.ctp:24
+#: View/ProjectAdmin/project_list.ctp:39;50
+msgid "Project Name"
+msgstr ""
+
+#: View/Company/add_project.ctp:20
+#: View/CompanyAdmin/add_project.ctp:20
+#: View/Project/add.ctp:20
+#: View/ProjectAdmin/add.ctp:25
+msgid "Project Description"
+msgstr ""
+
+#: View/Company/add_project.ctp:21
+#: View/CompanyAdmin/add_project.ctp:21
+#: View/Project/add.ctp:21
+#: View/ProjectAdmin/add.ctp:27
+msgid "Start Date"
+msgstr ""
+
+#: View/Company/edit.ctp:2
+#: View/Company/view_company.ctp:2
+#: View/CompanyAdmin/edit.ctp:2
+msgid "Edit Company Information"
+msgstr ""
+
+#: View/Company/edit.ctp:28
+#: View/Company/view_company.ctp:33
+#: View/CompanyAdmin/edit.ctp:40
+msgid "Company Token"
+msgstr ""
+
+#: View/Company/edit.ctp:33
+#: View/Company/view_company.ctp:38
+#: View/CompanyAdmin/edit.ctp:52
+msgid "Update"
+msgstr ""
+
+#: View/Company/view_company.ctp:26
+#: View/CompanyAdmin/add.ctp:21
+msgid "Address"
+msgstr ""
+
+#: View/CompanyAdmin/add.ctp:2
+#: View/CompanyAdmin/index.ctp:25
+msgid "Add New Company"
+msgstr ""
+
+#: View/CompanyAdmin/edit.ctp:47
+msgid "Pin Code"
+msgstr ""
+
+#: View/CompanyAdmin/index.ctp:6
+#: View/Elements/nav_loggedin_admin.ctp:34
+#: View/Project/show_project.ctp:6
+msgid "Company List"
+msgstr ""
+
+#: View/CompanyAdmin/index.ctp:41;52
+msgid "Company name"
+msgstr ""
+
+#: View/CompanyAdmin/index.ctp:42;53
+msgid "Contact person"
+msgstr ""
+
+#: View/CompanyAdmin/index.ctp:43;54
+msgid "#of Emp"
+msgstr ""
+
+#: View/CompanyAdmin/index.ctp:44;55
+msgid "#of Proj"
+msgstr ""
+
+#: View/CompanyAdmin/index.ctp:45;56
+msgid "Country"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:4
+#: View/ProjectAdmin/view_project.ctp:4
+msgid "Edit"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:21
+#: View/Elements/nav_loggedin_admin.ctp:40
+msgid "Project"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:22
+msgid "User"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:23;109;119
+#: View/ProjectAdmin/view_project.ctp:50;60;96;106;139;149;184;194
+#: View/ProjectUserAdmin/add.ctp:13;23
+#: View/UserAdmin/add.ctp:22
+#: View/UserAdmin/assign_users.ctp:87;97;148;158;214;224;275;285
+#: View/Users/activate.ctp:34
+msgid "Department"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:24
+msgid "Setting"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:31
+#: View/ProjectAdmin/project_list.ctp:21
+msgid "Add New Project"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:51;62;164;172
+#: View/DepartmentAdmin/add.ctp:51;59
+#: View/Project/show_project.ctp:27;37
+msgid "#of User"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:52;63
+#: View/ProjectAdmin/project_list.ctp:41;52
+msgid "Status"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:53;64
+msgid "Created"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:54;65
+#: View/ProjectAdmin/project_list.ctp:42;53
+msgid "Manager"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:88
+msgid "Add New User"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:108;118
+#: View/DataDictAdmin/add.ctp:54;62
+#: View/ProjectAdmin/view_project.ctp:95;105;138;148;183;193
+#: View/UserAdmin/activate_users.ctp:10;19
+#: View/UserAdmin/deactivate_users.ctp:10;19
+msgid "Name"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:110;120
+#: View/ProjectAdmin/view_project.ctp:97;107;140;150;185;195
+#: View/ProjectUserAdmin/add.ctp:14;24
+#: View/UserAdmin/add.ctp:23
+#: View/UserAdmin/assign_users.ctp:88;98;149;159;215;225;276;286
+#: View/Users/activate.ctp:35
+msgid "Position"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:111;121
+#: View/ProjectAdmin/view_project.ctp:98;108;186;196
+#: View/Users/activate.ctp:36
+msgid "Gender"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:143
+#: View/DepartmentAdmin/add.ctp:4
+msgid "Add New Department"
+msgstr ""
+
+#: View/CompanyAdmin/view_company.ctp:163;171
+#: View/DepartmentAdmin/add.ctp:22;50;58
+msgid "Department Name"
+msgstr ""
+
+#: View/DataDictAdmin/add.ctp:4
+msgid "Create New Data Dictionary"
+msgstr ""
+
+#: View/DataDictAdmin/add.ctp:5
+msgid "Back to Project"
+msgstr ""
+
+#: View/DataDictAdmin/add.ctp:12
+#: View/UserAdmin/assign_users.ctp:44
+msgid "Select Project"
+msgstr ""
+
+#: View/DataDictAdmin/add.ctp:14
+msgid "Select Project Department"
+msgstr ""
+
+#: View/DataDictAdmin/add.ctp:21;23
+msgid "Description Name"
+msgstr ""
+
+#: View/DataDictAdmin/add.ctp:27;29
+msgid "Description in Thai"
+msgstr ""
+
+#: View/DataDictAdmin/add.ctp:33;35
+msgid "Description in English"
+msgstr ""
+
+#: View/DataDictAdmin/add.ctp:55;63
+msgid "Actions"
+msgstr ""
+
+#: View/DepartmentAdmin/add.ctp:20
+#: View/Elements/nav_loggedin_admin.ctp:31
+#: View/Layouts/company.ctp:55;66
+#: View/Project/show_project.ctp:26;36
+#: View/ProjectAdmin/project_list.ctp:43;54
+#: View/UserAdmin/activate_users.ctp:11;20
+#: View/UserAdmin/add.ctp:18
+#: View/UserAdmin/deactivate_users.ctp:11;20
+msgid "Company"
+msgstr ""
+
+#: View/DepartmentAdmin/add.ctp:24
+#: View/UserAdmin/add.ctp:27
+msgid "Save"
+msgstr ""
+
+#: View/DepartmentAdmin/add.ctp:31
+msgid "Departments"
+msgstr ""
+
+#: View/Elements/nav.ctp:19
+#: View/Elements/nav_loggedin.ctp:19
+#: View/Elements/nav_loggedin_admin.ctp:56
+msgid "Thai"
+msgstr ""
+
+#: View/Elements/nav.ctp:23
+#: View/Elements/nav_loggedin.ctp:23
+#: View/Elements/nav_loggedin_admin.ctp:60
+#: View/Layouts/company.ctp:70
+msgid "English"
+msgstr ""
+
+#: View/Elements/nav.ctp:25
+msgid "Login"
+msgstr ""
+
+#: View/Elements/nav_loggedin.ctp:25
+#: View/Elements/nav_loggedin_admin.ctp:62
+msgid "Log Out"
+msgstr ""
+
+#: View/Elements/nav_loggedin_admin.ctp:16
+#: View/Layouts/company.ctp:53
+msgid "Home"
+msgstr ""
+
+#: View/Elements/nav_loggedin_admin.ctp:20
+#: View/ProjectAdmin/view_project.ctp:24
+#: View/UserAdmin/assign_users.ctp:250
+msgid "Users"
+msgstr ""
+
+#: View/Elements/nav_loggedin_admin.ctp:22;33
+#: View/Layouts/company.ctp:57
+msgid "Add new"
+msgstr ""
+
+#: View/Elements/nav_loggedin_admin.ctp:23
+msgid "Activate Users"
+msgstr ""
+
+#: View/Elements/nav_loggedin_admin.ctp:24
+msgid "Deactivate Users"
+msgstr ""
+
+#: View/Elements/nav_loggedin_admin.ctp:42
+msgid "Create Project"
+msgstr ""
+
+#: View/Elements/nav_loggedin_admin.ctp:43
+#: View/ProjectAdmin/project_list.ctp:6
+msgid "Project List"
+msgstr ""
+
+#: View/Elements/nav_loggedin_admin.ctp:47
+msgid "Assign Users"
+msgstr ""
+
+#: View/Elements/nav_loggedin_admin.ctp:48
+msgid ""
+msgstr ""
+
+#: View/Evaluate/evaluation.ctp:10
+msgid "Core Competencies"
+msgstr ""
+
+#: View/Evaluate/evaluation.ctp:11
+msgid "CSR Expected"
+msgstr ""
+
+#: View/Evaluate/evaluation.ctp:12
+msgid "Your Expected"
+msgstr ""
+
+#: View/Evaluate/evaluation.ctp:13
+msgid "Notes/Comments"
+msgstr ""
+
+#: View/Layouts/blank.ctp:56
+#: View/Layouts/company.ctp:81;88
+msgid "Competency System Analyst"
+msgstr ""
+
+#: View/Layouts/company.ctp:58
+msgid "List"
+msgstr ""
+
+#: View/Layouts/company.ctp:59
+msgid "Company Admins"
+msgstr ""
+
+#: View/Layouts/company.ctp:69
+msgid "ภาษาไทย"
+msgstr ""
+
+#: View/Project/show_project.ctp:28;38
+msgid "Project Status"
+msgstr ""
+
+#: View/ProjectAdmin/add.ctp:28
+msgid "Select Status"
+msgstr ""
+
+#: View/ProjectAdmin/add.ctp:29
+msgid "Select Project Manger"
+msgstr ""
+
+#: View/ProjectAdmin/project_list.ctp:40;51
+msgid "Description"
+msgstr ""
+
+#: View/ProjectAdmin/view_project.ctp:23
+msgid "Data Dictionary"
+msgstr ""
+
+#: View/ProjectAdmin/view_project.ctp:25
+msgid "Evaluate"
+msgstr ""
+
+#: View/ProjectAdmin/view_project.ctp:26
+msgid "Project Workers"
+msgstr ""
+
+#: View/ProjectAdmin/view_project.ctp:36
+msgid "Add Data Dictionary"
+msgstr ""
+
+#: View/ProjectAdmin/view_project.ctp:51;61
+msgid "Data Name"
+msgstr ""
+
+#: View/ProjectAdmin/view_project.ctp:52;62
+msgid "Thai Description"
+msgstr ""
+
+#: View/ProjectAdmin/view_project.ctp:53;63
+msgid "English Description"
+msgstr ""
+
+#: View/ProjectAdmin/view_project.ctp:86
+msgid "Add User To This Project"
+msgstr ""
+
+#: View/ProjectAdmin/view_project.ctp:129
+msgid "Assign Tasks"
+msgstr ""
+
+#: View/ProjectAdmin/view_project.ctp:141;151
+msgid "#of Users"
+msgstr ""
+
+#: View/ProjectAdmin/view_project.ctp:174
+msgid "Add Workers"
+msgstr ""
+
+#: View/ProjectUserAdmin/add.ctp:11;21
+#: View/UserAdmin/assign_users.ctp:85;95;146;156;212;222;273;283
+#: View/Users/signup.ctp:33
+msgid "First name"
+msgstr ""
+
+#: View/ProjectUserAdmin/add.ctp:12;22
+#: View/UserAdmin/assign_users.ctp:86;96;147;157;213;223;274;284
+#: View/Users/signup.ctp:34
+msgid "Last name"
+msgstr ""
+
+#: View/UserAdmin/activate_users.ctp:12;21
+#: View/UserAdmin/deactivate_users.ctp:12;21
+msgid "Action"
+msgstr ""
+
+#: View/UserAdmin/activate_users.ctp:31
+msgid "Activate"
+msgstr ""
+
+#: View/UserAdmin/add.ctp:2
+msgid "Create New User"
+msgstr ""
+
+#: View/UserAdmin/add.ctp:19
+msgid "Email Address"
+msgstr ""
+
+#: View/UserAdmin/add.ctp:20
+#: View/Users/activate.ctp:32
+msgid "First Name"
+msgstr ""
+
+#: View/UserAdmin/add.ctp:21
+#: View/Users/activate.ctp:33
+msgid "Last Name"
+msgstr ""
+
+#: View/UserAdmin/add.ctp:22
+#: View/Users/activate.ctp:34
+msgid "Select Department"
+msgstr ""
+
+#: View/UserAdmin/add.ctp:25
+msgid "Select Group"
+msgstr ""
+
+#: View/UserAdmin/add.ctp:25
+msgid "User Group"
+msgstr ""
+
+#: View/UserAdmin/assign_users.ctp:2
+msgid "Assign User to Evaluators"
+msgstr ""
+
+#: View/UserAdmin/assign_users.ctp:61
+msgid "Select the evaluator"
+msgstr ""
+
+#: View/UserAdmin/assign_users.ctp:74;112;135;173
+msgid "Select"
+msgstr ""
+
+#: View/UserAdmin/assign_users.ctp:121
+msgid "List of Evaluators has been assigned"
+msgstr ""
+
+#: View/UserAdmin/assign_users.ctp:121
+msgid "User(s)"
+msgstr ""
+
+#: View/UserAdmin/assign_users.ctp:187
+msgid "Select users for"
+msgstr ""
+
+#: View/UserAdmin/assign_users.ctp:190
+msgid "Select Another Evaluators"
+msgstr ""
+
+#: View/UserAdmin/assign_users.ctp:243
+msgid "Assign"
+msgstr ""
+
+#: View/UserAdmin/assign_users.ctp:250
+msgid "Assigned Users"
+msgstr ""
+
+#: View/UserAdmin/assign_users.ctp:304
+msgid "Remove"
+msgstr ""
+
+#: View/UserAdmin/deactivate_users.ctp:31
+msgid "Deactivate"
+msgstr ""
+
+#: View/Users/activate.ctp:6
+msgid "Complete Information Below to Activate Your Account"
+msgstr ""
+
+#: View/Users/activate.ctp:14
+msgid "Username"
+msgstr ""
+
+#: View/Users/activate.ctp:20;21
+#: View/Users/login.ctp:17
+#: View/Users/signup.ctp:31
+msgid "Password"
+msgstr ""
+
+#: View/Users/activate.ctp:27;28
+msgid "Confirm Password"
+msgstr ""
+
+#: View/Users/activate.ctp:31
+#: View/Users/signup.ctp:32
+msgid "Email"
+msgstr ""
+
+#: View/Users/activate.ctp:36
+#: View/Users/signup.ctp:35
+msgid "Select Gender"
+msgstr ""
+
+#: View/Users/activate.ctp:37
+msgid "Cell Phone"
+msgstr ""
+
+#: View/Users/activate.ctp:42
+msgid "Sorry, link your provided not available"
+msgstr ""
+
+#: View/Users/dashboard.ctp:7;10;19
+msgid "List of User You Have to Evaluate"
+msgstr ""
+
+#: View/Users/forgot_password.ctp:12
+#: View/Users/login.ctp:11
+msgid "Enter your email address"
+msgstr ""
+
+#: View/Users/forgot_password.ctp:21
+msgid "I confirm, I want to reset my password"
+msgstr ""
+
+#: View/Users/forgot_password.ctp:26
+msgid "Send Me a Link"
+msgstr ""
+
+#: View/Users/forgot_password.ctp:28
+#: View/Users/reset_password.ctp:25
+msgid "Cancel"
+msgstr ""
+
+#: View/Users/login.ctp:23
+msgid "Forgot Username or Password?"
+msgstr ""
+
+#: View/Users/login.ctp:27
+msgid "Log In"
+msgstr ""
+
+#: View/Users/login.ctp:29
+msgid "Sign Up Here"
+msgstr ""
+
+#: View/Users/reset_password.ctp:10
+msgid "Enter your new password"
+msgstr ""
+
+#: View/Users/reset_password.ctp:16
+msgid "Confirm password"
+msgstr ""
+
+#: View/Users/reset_password.ctp:21
+msgid "Reset Password"
+msgstr ""
+
+#: View/Users/signup.ctp:9
+msgid "Sign Up for an Account"
+msgstr ""
+
+#: View/Users/signup.ctp:30
+msgid "username"
+msgstr ""
+
+#: View/Users/signup.ctp:35
+msgid "Male"
+msgstr ""
+
+#: View/Users/signup.ctp:35
+msgid "Female"
+msgstr ""
+
+#: View/Users/signup.ctp:36
+msgid "Company code"
+msgstr ""
+
+#: View/Users/signup.ctp:38
+msgid "Phone number"
+msgstr ""
+
+#: View/Users/signup.ctp:44
+msgid "New User, Sign Up Here"
+msgstr ""
+
+#: View/Users/success_activate.ctp:2
+msgid "Login Here"
+msgstr ""
+
+#: Model/Company.php:validation for field company_name
+msgid "A Company name is required"
+msgstr ""
+
+#: Model/DataDictionary.php:validation for field company_id
+#: Model/Project.php:validation for field company_id
+msgid "Please select company"
+msgstr ""
+
+#: Model/DataDictionary.php:validation for field proj_id
+msgid "Project is required"
+msgstr ""
+
+#: Model/DataDictionary.php:validation for field dept_id
+msgid "Department is required"
+msgstr ""
+
+#: Model/DataDictionary.php:validation for field dd_name
+msgid "Data dictionary name is required"
+msgstr ""
+
+#: Model/Department.php:validation for field company_id
+msgid "A Company ID is required"
+msgstr ""
+
+#: Model/Department.php:validation for field dept_name
+msgid "A department name is required"
+msgstr ""
+
+#: Model/Project.php:validation for field proj_name
+msgid "Project name is required"
+msgstr ""
+
+#: Model/Project.php:validation for field proj_manager
+msgid "Project manager is required"
+msgstr ""
+
+#: Model/User.php:validation for field email
+msgid "A email is required"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:43
+msgid "-> Testing :url"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:69
+msgid "Total Requests made: :requests"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:70
+msgid "Total Time elapsed: :duration (seconds)"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:74
+msgid "Requests/Second: :rps req/sec"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:78
+msgid "Average request time: :average-time seconds"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:82
+msgid "Standard deviation of average request time: :std-dev"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:86
+msgid "Longest/shortest request: :longest sec/:shortest sec"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:134
+msgid "Allows you to obtain some rough benchmarking statisticsabout a fully qualified URL."
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:139
+msgid "The URL to request."
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:144
+msgid "Number of iterations to perform."
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:148
+msgid "Maximum total time for all iterations, in seconds.If a single iteration takes more than the tiemout, only one request will be made"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:152
+msgid "Example Use: `cake benchmark --n 10 --t 100 http://localhost/testsite`. <info>Note:</info> this benchmark does not include browser render times."
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:162
+msgid "Component initialization"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:284
+msgid "Controller action"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:287
+msgid "Controller action start"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:307
+msgid "Processing toolbar state"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:330
+msgid "Processing toolbar data"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:365
+msgid "Controller render start"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:448
+msgid "Could not load DebugToolbar panel %s"
+msgstr ""
+
+#: Plugin/DebugKit/Lib/DebugTimer.php:135
+msgid "Core Processing (Derived from $_SERVER[\"REQUEST_TIME\"])"
+msgstr ""
+
+#: Plugin/DebugKit/Lib/FireCake.php:317
+msgid "Headers already sent in %s on line %s. Cannot send log data to FirePHP."
+msgstr ""
+
+#: Plugin/DebugKit/Lib/FireCake.php:338
+msgid "Incorrect parameter count for FireCake::fb()"
+msgstr ""
+
+#: Plugin/DebugKit/Lib/FireCake.php:417
+msgid "Maximum number (99,999) of messages reached!"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/debug_toolbar.ctp:24
+msgid "There are no active panels. You must enable a panel to see its output."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/environment_panel.ctp:21
+msgid "App Constants"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/environment_panel.ctp:37
+msgid "CakePHP Constants"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/environment_panel.ctp:53
+msgid "PHP Environment"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/environment_panel.ctp:71
+msgid "Hidef Environment"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/history_panel.ctp:20
+msgid "Request History"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/history_panel.ctp:22
+msgid "No previous requests logged."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/history_panel.ctp:24
+msgid "previous requests available"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/history_panel.ctp:26
+msgid "Restore to current request"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/include_panel.ctp:20
+msgid "Included Files"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/log_panel.ctp:20
+msgid "Logs"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/log_panel.ctp:28
+msgid "Time"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/log_panel.ctp:28
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:43;67
+msgid "Message"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/log_panel.ctp:39
+msgid "There were no log entries made this request"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/request_panel.ctp:20
+msgid "Request"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/request_panel.ctp:28
+msgid "No post data."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/request_panel.ctp:37
+msgid "No querystring data."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/request_panel.ctp:50
+msgid "Current Route"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/session_panel.ctp:20
+msgid "Session"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sqllog_panel.ctp:25
+msgid "Sql Logs"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sqllog_panel.ctp:39
+msgid "Total Time: %s ms <br />Total Queries: %s queries"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sqllog_panel.ctp:48
+msgid "Query Explain:"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sqllog_panel.ctp:51
+msgid "Click an \"Explain\" link above, to see the query explanation."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sqllog_panel.ctp:56
+msgid "No active database connections"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:36
+msgid "Memory"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:39
+msgid "Peak Memory Use"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:43
+msgid "Memory use"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:56
+msgid "Timers"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:58
+msgid "%s (ms)"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:59
+msgid "Total Request Time:"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:68
+msgid "Time in ms"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:69
+msgid "Graph"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/variables_panel.ctp:20
+msgid "View Variables"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/DebugTimerHelper.php:47
+msgid "Rendering View"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/DebugTimerHelper.php:62
+msgid "Rendering %s"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/DebugTimerHelper.php:88
+msgid "View render complete"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/HtmlToolbarHelper.php:198
+msgid "Explain"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/SimpleGraphHelper.php:82
+msgid "Starting %sms into the request, taking %sms"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/TidyHelper.php:105
+msgid "No markup errors found"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/ToolbarHelper.php:191
+msgid "maybe slow"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/WhitespaceShell.php:92
+msgid "Absolute path or relative to APP."
+msgstr ""
+
+#: View/Errors/error400.ctp:24
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: View/Errors/error500.ctp:23
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: View/Layouts/error.ctp:20
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: View/Pages/home.ctp:25
+msgid "Release Notes for CakePHP %s."
+msgstr ""
+
+#: View/Pages/home.ctp:27
+msgid "Read the changelog"
+msgstr ""
+
+#: View/Pages/home.ctp:35
+msgid "URL rewriting is not properly configured on your server."
+msgstr ""
+
+#: View/Pages/home.ctp:43
+msgid "Your version of PHP is 5.2.8 or higher."
+msgstr ""
+
+#: View/Pages/home.ctp:47
+msgid "Your version of PHP is too low. You need PHP 5.2.8 or higher to use CakePHP."
+msgstr ""
+
+#: View/Pages/home.ctp:56
+msgid "Your tmp directory is writable."
+msgstr ""
+
+#: View/Pages/home.ctp:60
+msgid "Your tmp directory is NOT writable."
+msgstr ""
+
+#: View/Pages/home.ctp:70
+msgid "The %s is being used for core caching. To change the config edit APP/Config/core.php "
+msgstr ""
+
+#: View/Pages/home.ctp:74
+msgid "Your cache is NOT working. Please check the settings in APP/Config/core.php"
+msgstr ""
+
+#: View/Pages/home.ctp:84
+msgid "Your database configuration file is present."
+msgstr ""
+
+#: View/Pages/home.ctp:89
+msgid "Your database configuration file is NOT present."
+msgstr ""
+
+#: View/Pages/home.ctp:91
+msgid "Rename APP/Config/database.php.default to APP/Config/database.php"
+msgstr ""
+
+#: View/Pages/home.ctp:116
+msgid "Cake is able to connect to the database."
+msgstr ""
+
+#: View/Pages/home.ctp:120
+msgid "Cake is NOT able to connect to the database."
+msgstr ""
+
+#: View/Pages/home.ctp:132
+msgid "PCRE has not been compiled with Unicode support."
+msgstr ""
+
+#: View/Pages/home.ctp:134
+msgid "Recompile PCRE with Unicode support by adding <code>--enable-unicode-properties</code> when configuring"
+msgstr ""
+
+#: View/Pages/home.ctp:143
+msgid "DebugKit plugin is present"
+msgstr ""
+
+#: View/Pages/home.ctp:147
+msgid "DebugKit is not installed. It will help you inspect and debug different aspects of your application."
+msgstr ""
+
+#: View/Pages/home.ctp:149
+msgid "You can install it from %s"
+msgstr ""
+
+#: View/Pages/home.ctp:155
+msgid "Editing this Page"
+msgstr ""
+
+#: View/Pages/home.ctp:158
+msgid "To change the content of this page, edit: APP/View/Pages/home.ctp.<br />\nTo change its layout, edit: APP/View/Layouts/default.ctp.<br />\nYou can also add some CSS styles for your pages at: APP/webroot/css."
+msgstr ""
+
+#: View/Pages/home.ctp:164
+msgid "Getting Started"
+msgstr ""
+
+#: View/Pages/home.ctp:168
+msgid "New"
+msgstr ""
+
+#: View/Pages/home.ctp:168
+msgid "CakePHP 2.0 Docs"
+msgstr ""
+
+#: View/Pages/home.ctp:177
+msgid "The 15 min Blog Tutorial"
+msgstr ""
+
+#: View/Pages/home.ctp:184
+msgid "Official Plugins"
+msgstr ""
+
+#: View/Pages/home.ctp:189
+msgid "provides a debugging toolbar and enhanced debugging tools for CakePHP applications."
+msgstr ""
+
+#: View/Pages/home.ctp:193
+msgid "contains various localized validation classes and translations for specific countries"
+msgstr ""
+
+#: View/Pages/home.ctp:198
+msgid "More about Cake"
+msgstr ""
+
+#: View/Pages/home.ctp:200
+msgid "CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC."
+msgstr ""
+
+#: View/Pages/home.ctp:203
+msgid "Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility."
+msgstr ""
+
+#: View/Pages/home.ctp:207
+msgid "Cake Software Foundation"
+msgstr ""
+
+#: View/Pages/home.ctp:208
+msgid "Promoting development related to CakePHP"
+msgstr ""
+
+#: View/Pages/home.ctp:209
+msgid "CakePHP"
+msgstr ""
+
+#: View/Pages/home.ctp:210
+msgid "The Rapid Development Framework"
+msgstr ""
+
+#: View/Pages/home.ctp:211
+msgid "CakePHP Documentation"
+msgstr ""
+
+#: View/Pages/home.ctp:212
+msgid "Your Rapid Development Cookbook"
+msgstr ""
+
+#: View/Pages/home.ctp:213
+msgid "CakePHP API"
+msgstr ""
+
+#: View/Pages/home.ctp:214
+msgid "Quick Reference"
+msgstr ""
+
+#: View/Pages/home.ctp:215
+msgid "The Bakery"
+msgstr ""
+
+#: View/Pages/home.ctp:216
+msgid "Everything CakePHP"
+msgstr ""
+
+#: View/Pages/home.ctp:217
+msgid "CakePHP plugins repo"
+msgstr ""
+
+#: View/Pages/home.ctp:218
+msgid "A comprehensive list of all CakePHP plugins created by the community"
+msgstr ""
+
+#: View/Pages/home.ctp:219
+msgid "CakePHP Google Group"
+msgstr ""
+
+#: View/Pages/home.ctp:220
+msgid "Community mailing list"
+msgstr ""
+
+#: View/Pages/home.ctp:222
+msgid "Live chat about CakePHP"
+msgstr ""
+
+#: View/Pages/home.ctp:223
+msgid "CakePHP Code"
+msgstr ""
+
+#: View/Pages/home.ctp:224
+msgid "For the Development of CakePHP Git repository, Downloads"
+msgstr ""
+
+#: View/Pages/home.ctp:225
+msgid "CakePHP Lighthouse"
+msgstr ""
+
+#: View/Pages/home.ctp:226
+msgid "CakePHP Tickets, Wiki pages, Roadmap"
+msgstr ""
+
+#: webroot/test.php:95
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+

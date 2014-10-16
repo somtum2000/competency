@@ -1,0 +1,139 @@
+body {
+	background-repeat: none;
+	color: #555;
+
+	/* remove these two line if you do not want to use fix nav bar */
+  padding-top: 80px; /* 50px (fix header) + 30px (gap between header and first element */
+}
+
+.well {
+	background: rgba(245,245,245, 0.7);
+}
+
+.tab-pane {
+	margin-top: 20px;
+}
+
+.btn, .input {
+	margin-bottom: 20px;
+}
+
+
+
+
+/* Elements color */
+.btn-primary {
+	background: #283479;
+}
+.btn-light {
+	background: #f9ed35;
+}
+
+/* New Elements */
+
+.header-bar {
+	border-top: 1px #ccc solid;
+	border-bottom: 1px #ccc solid;
+	position: relative;
+	clear: both;
+	background: rgba(245,245,245, 0.7);
+	margin: 20px 0px;
+	padding: 0px 20px 10px 20px;
+}
+
+.fullwidth {
+	width: 100% !important;
+}
+
+.padding10 {
+	padding: 10px;
+}
+
+.padding20 {
+	padding: 20px;
+}
+
+.padding-u-d-10 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.padding-u-d-20 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.padding-l-r-10 {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.smallDevicesView {
+	display: none;
+}
+
+.largeDevicesView {
+	display: block;
+}
+
+.margin-bottom {
+	margin-bottom: 20px;
+}
+
+.bg-Div {
+	min-height: 720px;
+}
+
+
+/* Header */
+.top-header {
+	width: 100%;
+	color: #fff;
+	background: #283479;
+	margin-bottom: -1px; /* to remove div border */
+}
+
+
+
+@media screen and (min-width:767px){
+	#larget-header {
+		display: block;
+	}
+}
+
+
+@media screen and (max-width:767px){
+
+	.smallDevicesView {
+		display: block;
+	}
+	
+	.largeDevicesView {
+		display: none;
+	}
+	
+	.btn {
+		width: 100%;
+	}
+	
+	.navbar-brand {
+		width: 100%;
+		text-align: center;
+		position: fixed;
+	}
+	
+	.top-header {
+		display: none;
+	}
+	
+	#larger-header {
+		display: none;
+	}
+	#mobile-header {
+		display: block;
+	}
+	
+	h1, h2, h3, h4 {
+		text-align: center;
+	}
+}
