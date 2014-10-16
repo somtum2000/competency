@@ -368,5 +368,8 @@ class UsersController extends AppController {
 		$this->PhpExcel->addTableFooter()
 				->output();
 	}
+	
+	public function temp() {
+	}
 }
 ?>
